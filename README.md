@@ -30,7 +30,7 @@ ATTENTION : Don't forget to add the MovingPlatform code to your Platform.
 
 ## Author
 
-- [Efe Baydoğan](https://www.instagram.com/efebaydogan_) for design and development.
+- Created by Efe Baydoğan.
 
   ----------------------------------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ DİKKAT : MovingPlatform kodunu Platformunuza eklemeyi unutmayın.
 
 ## Yazar
 
-- [Efe Baydoğan](https://www.instagram.com/efebaydogan_) tasarım ve kodlama için.
+- Efe Baydoğan tarafından oluşturuldu.
